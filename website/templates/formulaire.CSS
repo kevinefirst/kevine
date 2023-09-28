@@ -1,0 +1,11 @@
+h2{
+    color: rgb(12, 32, 146);
+}
+label {
+    line-height: 2; /* Ajustez la valeur en fonction de l'espace souhaité, par exemple, 2 fois la taille du texte */
+  }
+input{
+    line-height: 1; /* Ajustez la valeur en fonction de l'espace souhaité, par exemple, 2 fois la taille du texte */
+
+}  
+  
